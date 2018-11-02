@@ -2,6 +2,7 @@
     "name": "pambuk/test-getting-required-2",
     "description": "Require test, no tags or releases",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "pambuk",
